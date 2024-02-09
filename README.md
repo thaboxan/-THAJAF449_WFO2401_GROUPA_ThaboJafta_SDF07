@@ -14,14 +14,14 @@
 TrolleyMate is a mobile grocery list app built with JavaScript, designed to simplify the process of managing your shopping needs. With a user-friendly interface and intuitive features, TrolleyMate enhances your grocery shopping experience.
 
 ## The Challenge
-In TrolleyMate, users can seamlessly add grocery items to their list using the 'Add to Cart' button, and items will dynamically appear at the bottom of the screen for easy reference. Additionally, users can remove items from their list with a simple tap.
+In TrolleyMate, users can seamlessly add grocery items to their list using the 'Add to Trolley' button, and items will dynamically appear at the bottom of the screen for easy reference. Additionally, users can remove items from their list with a simple tap.
 
 ## Links
 - [Solution URL](https://github.com/thaboxan/THAJAF449_WFO2401_GROUPA_ThaboJafta_SDF07))
 - [Live Site URL](https://trolleym8.netlify.app)/)
 
 ## My Process
-I followed along with a Scrimba tutorial to kickstart the development process, beginning with the HTML layout and CSS styling. As the tutorial progressed, I customized the styling to match the theme of groceries and food, opting for an orange and pink color scheme. I utilized Firebase for database management, learning how to export, fetch, and integrate it into the project. The JavaScript functionalities were implemented to handle adding and removing items from the list, with an emphasis on clarity and efficiency. Furthermore, I integrated a pure CSS toggle feature to switch between peaches & cream and kiwi modes. Personal touches, such as custom grocery cart and bag images created in Adobe Illustrator, were added to enhance the app's visual appeal.
+I followed along with a Scrimba tutorial to kickstart the development process, beginning with the HTML layout and CSS styling. As the tutorial progressed, I customized the styling to match the theme of groceries and food, opting for an orange and pink color scheme. I utilized Firebase for database management, learning how to export, fetch, and integrate it into the project. The JavaScript functionalities were implemented to handle adding and removing items from the list, with an emphasis on clarity and efficiency
 
 ## Built with
 - HTML
