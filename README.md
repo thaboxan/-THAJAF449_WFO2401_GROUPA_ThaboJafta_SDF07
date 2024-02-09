@@ -18,7 +18,7 @@ In TrolleyMate, users can seamlessly add grocery items to their list using the '
 
 ## Links
 - [Solution URL](https://github.com/thaboxan/THAJAF449_WFO2401_GROUPA_ThaboJafta_SDF07))
-- [Live Site URL](https://trolleym8.netlify.app)/)
+- [Live Site URL](https://trolleym8.netlify.app))
 
 ## My Process
 I followed along with a Scrimba tutorial to kickstart the development process, beginning with the HTML layout and CSS styling. As the tutorial progressed, I customized the styling to match the theme of groceries and food, opting for an orange and pink color scheme. I utilized Firebase for database management, learning how to export, fetch, and integrate it into the project. The JavaScript functionalities were implemented to handle adding and removing items from the list, with an emphasis on clarity and efficiency
