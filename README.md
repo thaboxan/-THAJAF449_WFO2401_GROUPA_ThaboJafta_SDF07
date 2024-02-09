@@ -17,7 +17,7 @@ TrolleyMate is a mobile grocery list app built with JavaScript, designed to simp
 In TrolleyMate, users can seamlessly add grocery items to their list using the 'Add to Cart' button, and items will dynamically appear at the bottom of the screen for easy reference. Additionally, users can remove items from their list with a simple tap.
 
 ## Links
-- [Solution URL]([https://github.com/thaboxan/THAJAF449_WFO2401_GROUPA_ThaboJafta_SDF07))
+- [Solution URL](https://github.com/thaboxan/THAJAF449_WFO2401_GROUPA_ThaboJafta_SDF07))
 - [Live Site URL](https://trolleym8.netlify.app)/)
 
 ## My Process
