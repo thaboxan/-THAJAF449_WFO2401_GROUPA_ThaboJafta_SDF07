@@ -1,4 +1,4 @@
-# CartMate Grocery App - Readme
+# TrolleyMate Grocery App - Readme
 
 ## Table of Contents
 - [Overview](#overview)
