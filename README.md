@@ -1,21 +1,43 @@
-# co097427c919a8af765b6a9ed
+# CartMate Grocery App - Readme
 
-Quick start:
+## Table of Contents
+- [Overview](#overview)
+- [The Challenge](#the-challenge)
+- [Links](#links)
+- [My Process](#my-process)
+- [Built with](#built-with)
+- [What I Learned](#what-i-learned)
+- [Continued Development](#continued-development)
+- [Useful Resources](#useful-resources)
 
-```
-$ npm install
-$ npm start
-````
+## Overview
+TrolleyMate is a mobile grocery list app built with JavaScript, designed to simplify the process of managing your shopping needs. With a user-friendly interface and intuitive features, TrolleyMate enhances your grocery shopping experience.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## The Challenge
+In TrolleyMate, users can seamlessly add grocery items to their list using the 'Add to Cart' button, and items will dynamically appear at the bottom of the screen for easy reference. Additionally, users can remove items from their list with a simple tap.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Links
+- [Solution URL]([https://github.com/thaboxan/THAJAF449_WFO2401_GROUPA_ThaboJafta_SDF07))
+- [Live Site URL](https://trolleym8.netlify.app)/)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## My Process
+I followed along with a Scrimba tutorial to kickstart the development process, beginning with the HTML layout and CSS styling. As the tutorial progressed, I customized the styling to match the theme of groceries and food, opting for an orange and pink color scheme. I utilized Firebase for database management, learning how to export, fetch, and integrate it into the project. The JavaScript functionalities were implemented to handle adding and removing items from the list, with an emphasis on clarity and efficiency. Furthermore, I integrated a pure CSS toggle feature to switch between peaches & cream and kiwi modes. Personal touches, such as custom grocery cart and bag images created in Adobe Illustrator, were added to enhance the app's visual appeal.
 
-Happy Coding!
+## Built with
+- HTML
+- Flexbox
+- CSS
+- JavaScript
+- Firebase
+- Mobile workflow
+
+## What I Learned
+Through the development of TrolleyMate, I gained valuable insights into building dynamic web applications with JavaScript. Importing and utilizing a database added depth to my understanding of data management within projects. Additionally, I successfully deployed the app to my phone, a feat that I take great pride in achieving.
+
+## Continued Development
+In the future, I intend to further explore database utilization for upcoming projects, including social media apps for tech professionals and e-commerce platforms. Additionally, I plan to continue my JavaScript learning journey, primarily through FreeCodeCamp practices, to expand my skill set and tackle more complex challenges.
+
+## Useful Resources
+- [Scrimba Tutorial](https://scrimba.com/learn/firebase)
+- [Firebase](https://console.firebase.google.com/u/0/)
+- [Favicon Converter](https://favicon.io)
